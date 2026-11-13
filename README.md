@@ -16,11 +16,16 @@ The proposed research integrates Taiwanese real estate transaction records, spat
 
 | File | Description | Status |
 |---|---|---|
+| [a2z-analysis.md](./a2z-analysis.md) | A2Z 寫作 SOP、課程評分對照、ReAct + RAG／Evidence Gate／Safe Stop 與待核對清單 | User-provided analysis; PDF verification pending |
 | [abstract.md](./abstract.md) | 中文 A–F 研究摘要：動機、挑戰、解方、方法、實驗與預期貢獻 | Proposal draft |
 | [research-analysis.md](./research-analysis.md) | 5 Cores、3 Trade-offs、10 Details，研究問題與概念流程 | Proposal draft |
 | [introduction.md](./introduction.md) | Introduction Refactor：背景、研究缺口、研究目標、方法與貢獻 | Proposal draft |
 | [related-work.md](./related-work.md) | Related Work Refactor：代表性學術文獻、比較矩陣、研究定位及引用 | Literature draft |
 | [ieee-abstract.md](./ieee-abstract.md) | 單段式 IEEE 風格英文 Abstract 與 Index Terms | Proposal draft |
+
+## A2Z Alignment Update / A2Z 對照更新
+
+新提供的 [A2Z 對照分析](./a2z-analysis.md) 指出原始房價提案的主軸應更聚焦於 **受控 ReAct + RAG、Evidence Gate、Safe Stop**，並在相同任務與評估規則下比較 Agent 與固定 Workflow。分析另提及臺中市 115 年第 3 季 10,638 筆官方交易快照、Conditional Go、23 篇文獻及 DESIGN.md 等項目，**尚待原始 PDF 核對**。目前其餘研究文件保留先前版本，後續核對後再同步重構，避免誤認為已完成內容一致性修訂。
 
 ## Research Questions / 研究問題
 
